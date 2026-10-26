@@ -1,0 +1,14 @@
+{
+  "project": "thomas-young-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "AHLHo1CTd1MjsUFoKNcfepQkZLWS7tfnaiVfUbbfSQG1",
+  "vault_account": "98ZwQZujFYXonGPAAQQSZFutegL4J2hC6xa4nc7FuR5Y",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2KVm9M48A5nJEhCUQn8PtVvDSiYmpGWyJEfa2z5TbrAe5Z8Du5spHaWccYFSTcsbfMtWFWX8mntVEYzkqA5CuFRC",
+  "account_tx": "3MfcXYtFqHQgmsF8FwiTkZR8FnKPCwrdqtqqjqgek9CYwTKs8eQSRTJPwVRxzhoYCKjJ1D2nCpHhXbsCVETpHtqL",
+  "mint_tx": "eAT4Qhxfyahnpa762QQoqUmtRB2VNJYHJwBqG4gYFVxME4CLxKBVPWCmHPErgoePc9rUWbnKHYttQ827K3L9AoZ",
+  "solana_explorer_mint": "https://explorer.solana.com/address/AHLHo1CTd1MjsUFoKNcfepQkZLWS7tfnaiVfUbbfSQG1?cluster=devnet",
+  "timestamp": "2026-10-26 17:01:02 UTC"
+}
